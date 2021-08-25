@@ -34,4 +34,4 @@ SO THAT our own site is optimized for search engines
  <li>Added CSS comments</li>
 
 ## Launch Website
-![Website Screenshot](./assets/images/launch-of-website-screenshot)
+![Website Screenshot](./assets/images/launch-of-website-screenshot.jpeg)
