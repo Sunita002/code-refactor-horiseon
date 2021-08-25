@@ -34,5 +34,9 @@ SO THAT our own site is optimized for search engines
  <li>Re-ordered Style Sheet following HTML sequence structure</li>
  <li>Added CSS comments</li>
 
-## Launch Website
+## Launch Application
 ![launch-of-website-screenshot](https://user-images.githubusercontent.com/87583026/130862809-2b30ee23-cb94-4f19-96f8-0bf30dd1a492.jpeg)
+
+# Deployment of Application
+https://Sunita002.github.io/code-refactor-horiseon/
+
