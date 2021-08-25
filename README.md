@@ -12,16 +12,17 @@ SO THAT our own site is optimized for search engines
  <li>Added "header" element in navigation section</li>
  <li>Removed "div"element in navigation section and replaced with "nav" element</li>
  <li>Provided comment on navigation section</li>
- </li>
+ <li>Fixed broken links </li>
 
  ## Hero/Jumbotron --HTML--
  <li>Added main and section elements</li>
  <li> Replaced div with "img" to identify class representing background image</li>
- <li>Removed ids since it was a duplicate of classes and kept classes for CSS styling</li>
+
 
  ## Services --HTML--
  <li>Added comment for Services and added <section> elements to replace "div" elements</li>
  <li>Added alt attributes onto images providing detailed description of image</li>
+ <li>Removed classes since it was a duplicate of ids and kept ids for CSS styling</li>
 
 ## Benefits --HTML--
 <li>Added alt attributes to images</li>
