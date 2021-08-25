@@ -15,7 +15,7 @@ SO THAT our own site is optimized for search engines
  </li>
 
  ## Hero/Jumbotron
- <li>Added main and section elements<li>
+ <li>Added main and section elements</li>
  <li> Replaced div with "img" to identify class representing background image</li>
  <li>Removed ids since it was a duplicate of classes and kept classes for CSS styling</li>
 
@@ -28,5 +28,5 @@ SO THAT our own site is optimized for search engines
 
  ## CSS
  <li>Consolidated CSS classes that had the same margin, padding, height, font and color values</li>
-<li> Consolidated elements with class header div ul <li>
+<li> Consolidated elements with class header div ul </li>
  <li>Re-ordered Style Sheet following HTML sequence structure</li>
