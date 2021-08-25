@@ -6,10 +6,9 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ### Acceptance Criteria For Accessibiliy 
-<li>
- <li>Changed <title> element to "Horiseon" <li>
- <li>Added <header> element in navigation section<li>
- <li>Removed <div> element in navigation section and replaced with <nav> element<li>
+ <li>Changed "title" element to "Horiseon" </li>
+ <li>Added "header" element in navigation section</li>
+ <li>Removed "div"element in navigation section and replaced with "nav" element</li>
  <li>Provided comment on navigation section</li>
  </li>
  ## Hero/Jumbotron
