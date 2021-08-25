@@ -39,4 +39,3 @@ SO THAT our own site is optimized for search engines
 
 # Deployment of Application
 https://Sunita002.github.io/code-refactor-horiseon/
-
