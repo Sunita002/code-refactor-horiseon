@@ -7,26 +7,31 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-### Acceptance Criteria For Accessibiliy 
+### Acceptance Criteria For Accessibiliy - HTML 
  <li>Changed "title" element to "Horiseon" </li>
  <li>Added "header" element in navigation section</li>
  <li>Removed "div"element in navigation section and replaced with "nav" element</li>
  <li>Provided comment on navigation section</li>
  </li>
 
- ## Hero/Jumbotron
+ ## Hero/Jumbotron --HTML--
  <li>Added main and section elements</li>
  <li> Replaced div with "img" to identify class representing background image</li>
  <li>Removed ids since it was a duplicate of classes and kept classes for CSS styling</li>
 
- ## Services
+ ## Services --HTML--
  <li>Added comment for Services and added <section> elements to replace "div" elements</li>
  <li>Added alt attributes onto images providing detailed description of image</li>
 
-## Benefits
+## Benefits --HTML--
 <li>Added alt attributes to images</li>
+<li>Added comment for Benefits
 
  ## CSS
  <li>Consolidated CSS classes that had the same margin, padding, height, font and color values</li>
 <li> Consolidated elements with class header div ul </li>
  <li>Re-ordered Style Sheet following HTML sequence structure</li>
+ <li>Added CSS comments</li>
+
+## Launch Website
+![Website Screenshot](./assets/images/launch-of-website-screenshot)
